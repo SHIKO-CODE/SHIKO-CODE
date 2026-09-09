@@ -18,8 +18,5 @@
 
 ### 📊 The Matrix Stats
 
-![GitHub Stats Dark](https://github-readme-stats.vercel.app/api?username=SHIKO-CODE&theme=radical&show_icons=true&hide_border=true#gh-dark-mode-only)
-![GitHub Stats Light](https://github-readme-stats.vercel.app/api?username=SHIKO-CODE&theme=default&title_color=F95360&icon_color=F95360&show_icons=true&hide_border=true#gh-light-mode-only)
-
 ![GitHub Streak Dark](https://github-readme-streak-stats.herokuapp.com/?user=SHIKO-CODE&theme=radical&hide_border=true#gh-dark-mode-only)
 ![GitHub Streak Light](https://github-readme-streak-stats.herokuapp.com/?user=SHIKO-CODE&theme=default&fire=F95360&ring=F95360&hide_border=true#gh-light-mode-only)
