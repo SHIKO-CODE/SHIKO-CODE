@@ -5,7 +5,9 @@
 ### *Silent Coder | Digital Architect*
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=F95360&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile;I'm+Shiko+-+Front-End+Developer;Crafting+Web+Experiences+with+Code;Silent+Coder+%7C+Digital+Architect" alt="Typing SVG" />
+
 <br><br>
+
 ### Into The Shadows
 🌌 **Mission:** Turning caffeine into code and abstract ideas into digital reality.<br>
 💻 **Focus:** Weaving the web (HTML, CSS) while exploring the logic of Python.<br>
