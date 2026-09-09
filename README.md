@@ -18,19 +18,18 @@
 
 <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
 <br><br>
 
 ### 📊 The Matrix Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=SHIKO-CODE&theme=radical&show_icons=true&hide_border=true#gh-dark-mode-only" alt="GitHub Stats Dark" />
-<img src="https://github-readme-stats.vercel.app/api?username=SHIKO-CODE&theme=default&title_color=F95360&icon_color=F95360&show_icons=true&hide_border=true#gh-light-mode-only" alt="GitHub Stats Light" />
+![GitHub Stats Dark](https://github-readme-stats.vercel.app/api?username=SHIKO-CODE&theme=radical&show_icons=true&hide_border=true#gh-dark-mode-only)
+![GitHub Stats Light](https://github-readme-stats.vercel.app/api?username=SHIKO-CODE&theme=default&title_color=F95360&icon_color=F95360&show_icons=true&hide_border=true#gh-light-mode-only)
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SHIKO-CODE&theme=radical&hide_border=true#gh-dark-mode-only" alt="GitHub Streak Dark" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SHIKO-CODE&theme=default&fire=F95360&ring=F95360&hide_border=true#gh-light-mode-only" alt="GitHub Streak Light" />
+![GitHub Streak Dark](https://github-readme-streak-stats.herokuapp.com/?user=SHIKO-CODE&theme=radical&hide_border=true#gh-dark-mode-only)
+![GitHub Streak Light](https://github-readme-streak-stats.herokuapp.com/?user=SHIKO-CODE&theme=default&fire=F95360&ring=F95360&hide_border=true#gh-light-mode-only)
 
 </div>
