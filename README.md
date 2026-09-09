@@ -4,9 +4,7 @@
 
 ### *Silent Coder | Digital Architect*
 
-*"In a world full of noise, let the code speak."*
-*"في عالم مليء بالضجيج، دع الكود يتحدث."*
-
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=FF3333&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile;I'm+Shiko+-+Front-End+Developer;Crafting+Web+Experiences+with+Code;Silent+Coder+%7C+Digital+Architect" alt="Typing SVG" />
 ---
 
 ###  Into The Shadows
