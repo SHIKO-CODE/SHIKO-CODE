@@ -25,18 +25,12 @@
 
 ### 📊 The Matrix Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SHIKO-CODE&theme=radical&show_icons=true&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SHIKO-CODE&theme=default&title_color=F95360&icon_color=F95360&show_icons=true&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHIKO-CODE&theme=default&title_color=F95360&icon_color=F95360&show_icons=true&hide_border=true" alt="GitHub Stats" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=SHIKO-CODE&theme=radical&show_icons=true&hide_border=true#gh-dark-mode-only" alt="GitHub Stats Dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=SHIKO-CODE&theme=default&title_color=F95360&icon_color=F95360&show_icons=true&hide_border=true#gh-light-mode-only" alt="GitHub Stats Light" />
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=SHIKO-CODE&theme=radical&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=SHIKO-CODE&theme=default&fire=F95360&ring=F95360&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHIKO-CODE&theme=default&fire=F95360&ring=F95360&hide_border=true" alt="GitHub Streak" />
-</picture>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SHIKO-CODE&theme=radical&hide_border=true#gh-dark-mode-only" alt="GitHub Streak Dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SHIKO-CODE&theme=default&fire=F95360&ring=F95360&hide_border=true#gh-light-mode-only" alt="GitHub Streak Light" />
 
 </div>
