@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌑 ＳＨＩＫＯ - ＤＶ
+# ＳＨＩＫＯ - ＤＶ
 
 ### *Silent Coder | Digital Architect*
 
@@ -8,7 +8,7 @@
 
 ---
 
-### 🕵️‍♂️ Into The Shadows
+### Into The Shadows
 
 🌌 **Mission:** Turning caffeine into code and abstract ideas into digital reality.<br>
 💻 **Focus:** Weaving the web (HTML, CSS) while exploring the logic of Python.<br>
@@ -17,7 +17,7 @@
 
 <br>
 
-### 🛠️ The Arsenal
+### The Arsenal
 
 <br>
 
