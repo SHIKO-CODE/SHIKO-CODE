@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌑 ＳＨＩＫＯ - ＤＶ
+# ＳＨＩＫＯ - ＤＶ
 
 ### *Silent Coder | Digital Architect*
 
@@ -8,7 +8,7 @@
 
 <br><br>
 
-### 🕵️‍♂️ Into The Shadows
+### Into The Shadows
 🌌 **Mission:** Turning caffeine into code and abstract ideas into digital reality.<br>
 💻 **Focus:** Weaving the web (HTML, CSS) while exploring the logic of Python.<br>
 🤫 **Secret:** The best user experiences are the ones you don't even notice.<br>
@@ -16,7 +16,7 @@
 
 <br>
 
-### 🛠️ The Arsenal
+### The Arsenal
 
 <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -25,7 +25,7 @@
 
 <br><br>
 
-### 📊 The Matrix Stats
+### The Matrix Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=SHIKO-CODE&theme=radical&show_icons=true&hide_border=true" alt="GitHub Stats" />
 <br>
