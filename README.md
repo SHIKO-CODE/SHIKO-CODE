@@ -10,10 +10,10 @@
 ---
 
 ### 🕵️‍♂️ Into The Shadows
-- 🌌 **Mission:** Turning caffeine into code and abstract ideas into digital reality.
-- 💻 **Focus:** Weaving the invisible threads of the web (HTML, CSS).
-- 🤫 **Secret:** The best user experiences are the ones you don't even notice.
-- ⚡ **Status:** Building something behind the scenes...
+🌌 **Mission:** Turning caffeine into code and abstract ideas into digital reality.<br>
+💻 **Focus:** Weaving the invisible threads of the web (HTML, CSS).<br>
+🤫 **Secret:** The best user experiences are the ones you don't even notice.<br>
+⚡ **Status:** Building something behind the scenes...
 
 ### 🛠️ The Arsenal (الأدوات)
 <p align="center">
