@@ -4,8 +4,11 @@
 
 ### *Silent Coder | Digital Architect*
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=8BE9FD&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile;I'm+Shiko+-+Front-End+Developer;Crafting+Web+Experiences+with+Code;Silent+Coder+%7C+Digital+Architect#gh-dark-mode-only" alt="Typing SVG" />
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=111111&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile;I'm+Shiko+-+Front-End+Developer;Crafting+Web+Experiences+with+Code;Silent+Coder+%7C+Digital+Architect#gh-light-mode-only" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=8BE9FD&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile;I'm+Shiko+-+Front-End+Developer;Crafting+Web+Experiences+with+Code;Silent+Coder+%7C+Digital+Architect">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=111111&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile;I'm+Shiko+-+Front-End+Developer;Crafting+Web+Experiences+with+Code;Silent+Coder+%7C+Digital+Architect">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=111111&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile;I'm+Shiko+-+Front-End+Developer;Crafting+Web+Experiences+with+Code;Silent+Coder+%7C+Digital+Architect">
+</picture>
 
 <br><br>
 
@@ -28,12 +31,18 @@
 
 ### 📊 The Matrix Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=SHIKO-CODE&theme=dracula&show_icons=true&hide_border=true&count_private=true#gh-dark-mode-only" alt="GitHub Stats Dark" />
-<img src="https://github-readme-stats.vercel.app/api?username=SHIKO-CODE&theme=default&show_icons=true&hide_border=true&count_private=true#gh-light-mode-only" alt="GitHub Stats Light" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SHIKO-CODE&theme=dracula&show_icons=true&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SHIKO-CODE&theme=default&show_icons=true&hide_border=true">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SHIKO-CODE&theme=default&show_icons=true&hide_border=true">
+</picture>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SHIKO-CODE&theme=dracula&hide_border=true#gh-dark-mode-only" alt="GitHub Streak Dark" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SHIKO-CODE&theme=default&hide_border=true#gh-light-mode-only" alt="GitHub Streak Light" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=SHIKO-CODE&theme=dracula&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=SHIKO-CODE&theme=default&hide_border=true">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SHIKO-CODE&theme=default&hide_border=true">
+</picture>
 
 </div>
